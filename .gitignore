@@ -1,0 +1,7 @@
+.idea
+venv
+Include
+Lib
+Scripts
+pyvenv.cfg
+Chinook_Sqlite.sqlite
